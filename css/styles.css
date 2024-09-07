@@ -10907,6 +10907,7 @@ p.lead {
     max-width: 10rem;
     max-height: 10rem;
     border: 0px solid;
+    overflow: auto;
   }
   #sideNav .navbar-collapse {
     display: flex;
