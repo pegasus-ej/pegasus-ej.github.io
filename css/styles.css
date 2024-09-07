@@ -10906,6 +10906,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
+    border: 0px solid;
   }
   #sideNav .navbar-collapse {
     display: flex;
