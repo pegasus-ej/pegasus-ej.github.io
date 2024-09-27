@@ -3139,6 +3139,14 @@ a {
   text-decoration: none;
 }
 
+.heading-11 {
+  letter-spacing: 1px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
 @media screen and (max-width: 991px) {
   h2 {
     font-size: 34px;
