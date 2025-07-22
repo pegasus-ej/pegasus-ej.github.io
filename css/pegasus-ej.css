@@ -2756,8 +2756,8 @@ a {
   justify-content: space-around;
   align-items: center;
   width: 90vw;
-  margin-top: 3vh;
-  margin-bottom: 3vh;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
   padding-left: 10vw;
   padding-right: 10vw;
   display: flex;
